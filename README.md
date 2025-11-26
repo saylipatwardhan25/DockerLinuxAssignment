@@ -39,5 +39,4 @@ git push -u origin main
 - Git: learned version control workflow.
 - Docker: built and ran containerized environments.
 
-## 4. Docker Hub (Optional)
-Creating a Docker Hub account is optional unless the assignment requires pushing container images online.
+
