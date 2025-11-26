@@ -1,4 +1,6 @@
- 1. Five DevOps Concepts
+#Five DevOps Concepts
+
+
 1.Continuous Integration (CI) – Automatically builds and tests code whenever changes are made, ensuring errors are caught early.
 
 2.Continuous Delivery (CD) – Automates the deployment process so code can be safely released to production anytime.
